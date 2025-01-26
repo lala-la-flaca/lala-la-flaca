@@ -1,7 +1,7 @@
 ## ❀˚ʚ♡ɞ˚ Hi there ʚ♡ɞ˚❀ 👋😊
 <h1>About Me <br/><a href="https://www.linkedin.com/in/albacarolinazambrano/">Telco Cloud Engineer</a> </a></h1>
 
-<p> Hi! I’m a telecommunications and RF engineer with over 7 years of experience troubleshooting and optimizing 4G/5G networks. Recently, I’ve started transitioning into cloud engineering and DevOps, earning AWS certifications and deepening my skills in automation, infrastructure design, and CI/CD pipelines.
+<p> Hi! I’m a telecommunications RF engineer with over 7 years of experience troubleshooting and optimizing 4G/5G networks. Recently, I’ve started transitioning into cloud engineering and DevOps, earning AWS certifications and deepening my skills in automation, infrastructure design, and CI/CD pipelines.
 I’m currently enrolled in the TechWorld with Nana DevOps Bootcamp, where I’m learning to work with industry-standard tools like Terraform, Kubernetes, Jenkins, and Docker. I’m actively applying this knowledge through hands-on projects that simulate real-world challenges.
 I’m passionate about solving complex technical problems and building scalable, secure cloud solutions. My goal is to leverage my telecom background and cloud expertise to contribute to impactful projects in cloud engineering and DevOps. </p>
 
