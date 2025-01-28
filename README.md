@@ -5,10 +5,15 @@
 I’m currently enrolled in the TechWorld with Nana DevOps Bootcamp, where I’m learning to work with industry-standard tools like Terraform, Kubernetes, Jenkins, and Docker. I’m actively applying this knowledge through hands-on projects that simulate real-world challenges.
 I’m passionate about solving complex technical problems and building scalable, secure cloud solutions. My goal is to leverage my telecom background and cloud expertise to contribute to impactful projects in cloud engineering and DevOps.</p>
 
-<h2> ☁️👩🏻‍💻 DevOps Bootcamp Demo Projects: 👩🏻‍💻☁️</h2>
+## ☁️👩🏻‍💻 DevOps Bootcamp Demo Projects: 👩🏻‍💻☁️
 
 - <b>Module 5: Cloud & IaaS (Basics)</b>
   - [Cloud & IaaS](https://github.com/lala-la-flaca/deploy-java-app-digitalocean)
+ 
+## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
+
+- <b>Module 5: Cloud & IaaS (Basics)</b>
+  - [Cloud & IaaS Exercise](https://github.com/lala-la-flaca/Cloud-IaaS-Exercise)
 
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
