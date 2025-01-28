@@ -15,7 +15,15 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 5: Cloud & IaaS (Basics)</b>
   - [Cloud & IaaS Exercise](https://github.com/lala-la-flaca/Cloud-IaaS-Exercise)
 
-<!--
+
+ <!--
+## 🤝🏻 Connect with me:
+
+[<img align="left" alt="AlbaCarolina | LinkedIn" width="22px" src="https://www.linkedin.com/in/albacarolinazambrano/" />][linkedin]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
