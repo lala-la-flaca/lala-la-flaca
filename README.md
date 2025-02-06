@@ -1,4 +1,4 @@
-## ❀˚ʚ♡ɞ˚ Hi there ʚ♡ɞ˚❀ 👋😊
+# ❀˚ʚ♡ɞ˚ Hi there ʚ♡ɞ˚❀ 👋😊
 <h1>About Me <br/><a href="https://www.linkedin.com/in/albacarolinazambrano/">Telco Cloud Engineer</a> </a></h1>
 
 <p> Hi! I’m a telecommunications RF engineer with over 7 years of experience troubleshooting and optimizing 4G/5G networks. Recently, I’ve started transitioning into cloud engineering and DevOps, earning AWS certifications and deepening my skills in automation, infrastructure design, and CI/CD pipelines.
@@ -14,11 +14,22 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 6: Artifact Repository Manager with Nexus</b>
   - [Artifact Repository Manager with Nexus](https://github.com/lala-la-flaca/DevOpsBootcamp_6_Nexus_Cloud_Java/tree/main)
 
+
+
+
  
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
 - <b>Module 5: Cloud & IaaS (Basics)</b>
   - [Cloud & IaaS Exercise](https://github.com/lala-la-flaca/Cloud-IaaS-Exercise)
+    
+- <b>Module 6: Artifact Repository Manager with Nexus</b>
+  - [Artifact Repository Manager with Nexus](https://github.com/lala-la-flaca/DevOpsBootcamp_Exercise_6_Artifact_Nexus)
+
+
+
+
+
 
 
 ## 🤝🏻 Connect with me:
