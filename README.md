@@ -14,9 +14,9 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 6: Artifact Repository Manager with Nexus</b>
   - [Artifact Repository Manager with Nexus](https://github.com/lala-la-flaca/DevOpsBootcamp_6_Nexus_Cloud_Java/tree/main)
 
-- <b>Module 7: Containers with Docker </b>
-  -[Container with Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker)
-  -[Docker & Amazon ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_ECR) 
+- <b>Module 7: Containers with Docker</b>
+  - [Containers with Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker)
+  - [Docker & Amazon ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_ECR) 
 
 
  
