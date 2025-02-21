@@ -16,7 +16,8 @@ I’m passionate about solving complex technical problems and building scalable,
 
 - <b>Module 7: Containers with Docker</b>
   - [Containers with Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker)
-  - [Docker & Amazon ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_ECR) 
+  - [Docker & Amazon ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_ECR)
+  - [Docker Volumes](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_Volume) 
 
 
  
