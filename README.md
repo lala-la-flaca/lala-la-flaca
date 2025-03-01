@@ -32,6 +32,7 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Artifact Repository Manager with Nexus](https://github.com/lala-la-flaca/DevOpsBootcamp_Exercise_6_Artifact_Nexus)
 
 - <b>Module 7: Containers with Docker</b>
+  - [Containers with Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_Exercise_7_Docker)
 
 
 
