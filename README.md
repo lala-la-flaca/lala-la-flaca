@@ -19,6 +19,7 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Docker & Amazon ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_ECR)
   - [Docker Volumes](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_Volume)
   - [Docker With Nexus](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_Nexus)
+  - [Nexus deployed using Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_Nexus_Docker)
 
 
  
@@ -30,7 +31,7 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 6: Artifact Repository Manager with Nexus</b>
   - [Artifact Repository Manager with Nexus](https://github.com/lala-la-flaca/DevOpsBootcamp_Exercise_6_Artifact_Nexus)
 
-
+- <b>Module 7: Containers with Docker</b>
 
 
 
