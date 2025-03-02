@@ -21,6 +21,9 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Docker With Nexus](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_Nexus)
   - [Nexus deployed using Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_7_docker_Nexus_Docker)
 
+- <b>Module 8: Build Automation & CI/CD with Jenkins</b>
+  - [Installing Jenkins](https://github.com/lala-la-flaca/DevOpsBootcamp_8_Jenkins)
+
 
  
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
