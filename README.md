@@ -24,6 +24,7 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 8: Build Automation & CI/CD with Jenkins</b>
   - [Installing Jenkins](https://github.com/lala-la-flaca/DevOpsBootcamp_8_Jenkins)
   - [Pipelines Jenkins](https://github.com/lala-la-flaca/DevOpsBootcamp_8_Jenkins_Pipeline)
+  - [Shared Library](https://github.com/lala-la-flaca/DevOpsBootcamp_8_Jenkins_SharedLibrary)
 
 
  
