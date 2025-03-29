@@ -28,6 +28,8 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Webhooks](https://github.com/lala-la-flaca/DevOpsBootcamp_8_Jenkins_SharedLibrary/blob/main/README.md#webhooks)
   - [Versioning APP](https://github.com/lala-la-flaca/DevOpsBootcamp_8_Jenkins_SharedLibrary/blob/main/README.md#versioningapp)
 
+- <b>Module 9: AWS Services</b>
+  - [Deploy WebApp on EC2](https://github.com/lala-la-flaca/DevOpsBootcamp_9_AWS_WebApp)
 
  
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
