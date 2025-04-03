@@ -30,6 +30,7 @@ I’m passionate about solving complex technical problems and building scalable,
 
 - <b>Module 9: AWS Services</b>
   - [Deploy WebApp on EC2](https://github.com/lala-la-flaca/DevOpsBootcamp_9_AWS_WebApp)
+  - [Deploy WebApp on Ec2 Using Jenkins](https://github.com/lala-la-flaca/DevOpsBootcamp_9_AWS_Jenkins_Docker)
 
  
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
