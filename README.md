@@ -34,6 +34,10 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Deploying Java-Maven-App on EC2 Using Jenkins & Docker Compose ](https://github.com/lala-la-flaca/DevOpsBootcamp_9_AWS_Jenkins_Docker/blob/main/README.md#docker-compose)
   - [Dynamic Versioning & Docker Compose](https://github.com/lala-la-flaca/DevOpsBootcamp_9_AWS_Jenkins_Docker/blob/main/README.md#DynamicVersioning)
   - [AWS CLI](https://github.com/lala-la-flaca/DevOpsBootcamp_9_AWS_CLI)
+
+- <b>Module 10: Kubernetes</b>
+  - [Kubernetes](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes)
+  - [Kubernetes with Mosquitto](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Mosquitto)
  
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
