@@ -38,6 +38,7 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 10: Kubernetes</b>
   - [Kubernetes](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes)
   - [Kubernetes with Mosquitto](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Mosquitto)
+  - [Kubernetes Helm and DigitalOCean](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_DO_MongoDB)
  
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
