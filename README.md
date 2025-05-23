@@ -40,6 +40,7 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Kubernetes with Mosquitto](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Mosquitto)
   - [Kubernetes Helm and DigitalOCean](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_DO_MongoDB)
   - [Kubernetes Helm & AWS ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Helm_AWS)
+  - [Kubernetes Microservices](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Microservices)
  
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
