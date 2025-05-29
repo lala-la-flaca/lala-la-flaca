@@ -42,7 +42,10 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Kubernetes Helm & AWS ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Helm_AWS)
   - [Kubernetes Microservices](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Microservices)
   - [Kubernetes Microservices & Helm](https://github.com/lala-la-flaca/DevOpsBootcamp_10_Kubernetes_Microservices_Helm)
- 
+
+ - <b> Module 11: AWS EKS </b>
+   - [AWS EKS](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS)
+   - 
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
 - <b>Module 5: Cloud & IaaS (Basics)</b>
