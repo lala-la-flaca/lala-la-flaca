@@ -47,6 +47,7 @@ I’m passionate about solving complex technical problems and building scalable,
    - [AWS EKS](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS)
    - [AWS EKS & Fargate](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS_Fargate)
    - [AWS EKS with EKSCTL](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS_eksctl)
+   - [AWS EKS CD](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CD_pipeline)
    - 
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
