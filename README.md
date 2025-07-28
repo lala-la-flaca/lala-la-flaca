@@ -54,7 +54,7 @@ I’m passionate about solving complex technical problems and building scalable,
 
 - <b>Module 12: Terraform </b>
   - [Automate AWS infrastructure](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/main).
-  - 
+  - [Modularize Project](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/feature/modules).
      
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
