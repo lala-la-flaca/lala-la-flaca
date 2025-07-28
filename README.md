@@ -51,6 +51,10 @@ I’m passionate about solving complex technical problems and building scalable,
    - [DifitalOcean KS CD](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CD_pipeline_DO)
    - [AWS EKS CI/CD DockerHub](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CICD_pipeline_DockerHub)
    - [AWS EKS CI/CD ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CICD_pipeline_AWS)
+
+- <b>Module 12: Terraform </b>
+  - [Automate AWS infrastructure](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/main).
+  - 
      
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
