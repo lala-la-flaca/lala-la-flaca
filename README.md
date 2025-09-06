@@ -57,7 +57,18 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Modularize Project](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/feature/modules).
   - [Terraform AWS EKS](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/feature/eks)
   - [Terraform CI/CD and Shared state](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_Shared_CICD/tree/main)
-    
+
+- <b>Module 13: Programming with Python </b>
+  - [CountDown](https://github.com/lala-la-flaca/DevOpsBootcamp_13_Programming_with_Python)
+  - [SpreadSheet](https://github.com/lala-la-flaca/DevOpsBootcamp_13_Programming_with_Python_2)
+  - [API_GITLab_Request](https://github.com/lala-la-flaca/DevOpsBootcamp_13_Programming_with_Python_3)
+  
+- <b>Module 14: Automation with Python </b>
+  - [EC2_Status_Check](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_1)
+  - [EC2_Tags](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_2)
+  - [EKS_Cluster](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_3)
+  - [Backup_&_Restore](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_4)
+  - [Website_Monitoring](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_5)
      
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
