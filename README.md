@@ -69,7 +69,9 @@ I’m passionate about solving complex technical problems and building scalable,
   - [EKS_Cluster](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_3)
   - [Backup_&_Restore](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_4)
   - [Website_Monitoring](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_5)
-     
+
+- <b>Module 15: Configuration Management with Ansible </b>
+- <b>Module 16: Monitoring with Prometheus </b>     
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
 - <b>Module 5: Cloud & IaaS (Basics)</b>
