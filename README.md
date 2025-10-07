@@ -71,8 +71,8 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Website_Monitoring](https://github.com/lala-la-flaca/DevOpsBootcamp_14_Automation_with_Python_5)
 
 - <b>Module 15: Configuration Management with Ansible </b>
-  - [Automate NodeJS application deployment](git@github.com:lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_NodeJS.git)
-  - [Nexus Deployment with Ansible](git@github.com:lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_Nexus.git)
+  - [Automate NodeJS application deployment](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_NodeJS.git)
+  - [Nexus Deployment with Ansible](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_Nexus.git)
   - 
 - <b>Module 16: Monitoring with Prometheus </b>     
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
