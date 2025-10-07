@@ -72,6 +72,7 @@ I’m passionate about solving complex technical problems and building scalable,
 
 - <b>Module 15: Configuration Management with Ansible </b>
   - [Automate NodeJS application deployment](git@github.com:lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_NodeJS.git)
+  - [Nexus Deployment with Ansible](git@github.com:lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_Nexus.git)
   - 
 - <b>Module 16: Monitoring with Prometheus </b>     
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
