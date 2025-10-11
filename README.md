@@ -76,7 +76,7 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Ansible&Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_Docker_Terraform/tree/main)
   - [Ansible&Terraform](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_Docker_Terraform/tree/main)
   - [Dynamic_Inventory](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_Dynamic_Inventory)
-  - [Ansible&EKS]()
+  - [Ansible&EKS](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_EKS/tree/demo/ansible-demo6-eks)
  
 - <b>Module 16: Monitoring with Prometheus </b>     
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
