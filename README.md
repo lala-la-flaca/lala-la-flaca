@@ -75,7 +75,7 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Nexus Deployment with Ansible](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_Nexus.git)
   - [Ansible&Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_Docker_Terraform/tree/main)
   - [Ansible&Terraform](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_Docker_Terraform/tree/main)
-  - [Dynamic_Inventory](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_Dynamic_Inventory)
+  - [Dynamic_Inventory](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_Dynamic_Inventory/tree/demo/ansible-demo5-dynamic-inventory)
   - [Ansible&EKS](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_EKS/tree/demo/ansible-demo6-eks)
  
 - <b>Module 16: Monitoring with Prometheus </b>     
