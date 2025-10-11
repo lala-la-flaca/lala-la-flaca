@@ -73,7 +73,11 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 15: Configuration Management with Ansible </b>
   - [Automate NodeJS application deployment](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_NodeJS.git)
   - [Nexus Deployment with Ansible](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_DO_Nexus.git)
-  - 
+  - [Ansible&Docker](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_Docker_Terraform/tree/main)
+  - [Ansible&Terraform](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_AWS_Docker_Terraform/tree/main)
+  - [Dynamic_Inventory](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_Dynamic_Inventory)
+  - [Ansible&EKS]()
+ 
 - <b>Module 16: Monitoring with Prometheus </b>     
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
