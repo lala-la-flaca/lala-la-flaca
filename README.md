@@ -80,7 +80,9 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Ansible&Jenkins](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_Jenkins_AWS)
   - [Ansible Roles](https://github.com/lala-la-flaca/DevOpsBootcamp_15_Ansible_Roles)
  
-- <b>Module 16: Monitoring with Prometheus </b>     
+- <b>Module 16: Monitoring with Prometheus </b>
+  - [Install Prometheus Stack](https://github.com/lala-la-flaca/DevOpsBootcamp_16_Prometheus)
+  - 
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
 - <b>Module 5: Cloud & IaaS (Basics)</b>
