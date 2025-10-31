@@ -83,8 +83,8 @@ I’m passionate about solving complex technical problems and building scalable,
 - <b>Module 16: Monitoring with Prometheus </b>
   - [Install Prometheus Stack](https://github.com/lala-la-flaca/DevOpsBootcamp_16_Prometheus)
   - [Alerting](https://github.com/lala-la-flaca/DevOpsBootcamp_16_Prometheus_Alerting)
-  - [Monitoring 3rd Party App]()
-  - [Monitoring Own App]()
+  - [Monitoring 3rd Party App](https://github.com/lala-la-flaca/DevOpsBootcamp_16_Prometheus_3rd_Party_App)
+  - [Monitoring Own App](https://github.com/lala-la-flaca/DevOpsBootcamp_16_Prometheus_Own_app)
     
 ## ☁️👩🏻‍💻 DevOps Bootcamp Exercises: 👩🏻‍💻☁️</h2>
 
