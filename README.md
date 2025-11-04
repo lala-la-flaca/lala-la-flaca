@@ -56,7 +56,7 @@ I’m passionate about solving complex technical problems and building scalable,
   - [Automate AWS infrastructure](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/main).
   - [Modularize Project](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/feature/modules).
   - [Terraform AWS EKS](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_AWS/tree/feature/eks)
-  - [Terraform CI/CD and Shared state](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_Shared_CICD/tree/main)
+  - [Shared Remote state and Complete Terraform CI/CD](https://github.com/lala-la-flaca/DevOpsBootcamp_12_Terraform_Shared_CICD/tree/main)
 
 - <b>Module 13: Programming with Python </b>
   - [CountDown](https://github.com/lala-la-flaca/DevOpsBootcamp_13_Programming_with_Python)
