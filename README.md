@@ -48,7 +48,7 @@ I’m passionate about solving complex technical problems and building scalable,
    - [AWS EKS & Fargate](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS_Fargate)
    - [AWS EKS with EKSCTL](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS_eksctl)
    - [AWS EKS CD](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CD_pipeline)
-   - [DifitalOcean KS CD](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CD_pipeline_DO)
+   - [DigitalOcean KS CD](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CD_pipeline_DO)
    - [AWS EKS CI/CD DockerHub](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CICD_pipeline_DockerHub)
    - [AWS EKS CI/CD ECR](https://github.com/lala-la-flaca/DevOpsBootcamp_11_AWS_EKS__CICD_pipeline_AWS)
 
